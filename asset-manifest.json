@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-quotes/static/css/main.45698537.chunk.css",
+    "main.js": "/react-quotes/static/js/main.2d11299e.chunk.js",
+    "main.js.map": "/react-quotes/static/js/main.2d11299e.chunk.js.map",
+    "runtime-main.js": "/react-quotes/static/js/runtime-main.6b05ed9b.js",
+    "runtime-main.js.map": "/react-quotes/static/js/runtime-main.6b05ed9b.js.map",
+    "static/js/2.792974ff.chunk.js": "/react-quotes/static/js/2.792974ff.chunk.js",
+    "static/js/2.792974ff.chunk.js.map": "/react-quotes/static/js/2.792974ff.chunk.js.map",
+    "static/js/3.fa83dd4e.chunk.js": "/react-quotes/static/js/3.fa83dd4e.chunk.js",
+    "static/js/3.fa83dd4e.chunk.js.map": "/react-quotes/static/js/3.fa83dd4e.chunk.js.map",
+    "index.html": "/react-quotes/index.html",
+    "static/css/main.45698537.chunk.css.map": "/react-quotes/static/css/main.45698537.chunk.css.map",
+    "static/js/2.792974ff.chunk.js.LICENSE.txt": "/react-quotes/static/js/2.792974ff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b05ed9b.js",
+    "static/js/2.792974ff.chunk.js",
+    "static/css/main.45698537.chunk.css",
+    "static/js/main.2d11299e.chunk.js"
+  ]
+}
